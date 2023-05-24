@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InfernoDragneel.github.io/pomodoro/static/css/main.442f65e3.css",
+    "main.js": "/InfernoDragneel.github.io/pomodoro/static/js/main.f74ff59a.js",
+    "static/js/787.b1af5461.chunk.js": "/InfernoDragneel.github.io/pomodoro/static/js/787.b1af5461.chunk.js",
+    "index.html": "/InfernoDragneel.github.io/pomodoro/index.html",
+    "main.442f65e3.css.map": "/InfernoDragneel.github.io/pomodoro/static/css/main.442f65e3.css.map",
+    "main.f74ff59a.js.map": "/InfernoDragneel.github.io/pomodoro/static/js/main.f74ff59a.js.map",
+    "787.b1af5461.chunk.js.map": "/InfernoDragneel.github.io/pomodoro/static/js/787.b1af5461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442f65e3.css",
+    "static/js/main.f74ff59a.js"
+  ]
+}
